@@ -319,8 +319,8 @@ align-items: center;
     /* overflow: hidden;
 } */
 
-.work-img-1 video,
-.sec-one-left video
+.work-img-1 iframe,
+.sec-one-left iframe
 {
     /* height: fit-content; */
     /* height: 100%; */
@@ -339,7 +339,7 @@ align-items: center;
     align-items: center;
     /* overflow: hidden; */
 }
-.work-img-2 video {
+.work-img-2 iframe {
     max-height: 190px;
 }
 .work-imgs div:hover{
@@ -628,7 +628,7 @@ align-items: center;
     margin: auto;
 }
 
-.section__media video {
+.section__media iframe {
     height: 100%;
     min-width: 350px;
     width: 100%;
